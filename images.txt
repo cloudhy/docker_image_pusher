@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 louislam/uptime-kuma
+seatable/seatable-developer:4.4.1
